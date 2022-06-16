@@ -33,3 +33,4 @@ def prepare_model_settings(label_count,sample_rate,clip_duration_ms,window_size_
         'label_count': label_count,
         'sample_rate':sample_rate
     }
+print("adhajsdjasd")
