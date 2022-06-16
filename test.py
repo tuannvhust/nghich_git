@@ -6,3 +6,5 @@ def test(args):
     model.load_state_dict(torch.load(save_name))
     model.to(args.device)
     identity_list = get_lfw_list(args.test_list_path)
+    print('adkhaefnadaksdkcl')
+    a = 24
